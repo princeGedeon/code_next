@@ -42,7 +42,7 @@ export default function Home() {
           <h6 className="text-gray-500 text-sm mb-1">Rencontrez des devs</h6>
           <p className="text-sm mb-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat molestias unde quibusdam odio at sit.</p>
           <Link href="/utilisateur" >
-          <a className="text-blue-800 text-md rounded-md bg-gray-400 mt-2 px-2 py-3 hover:bg-gray-600 hover:text-slate-100 ">Découvrez la liste des membres</a>
+          <a className="text-blue-800 text-md text-gray-600 rounded-md bg-sky-600 mt-2 px-2 py-3 hover:bg-gray-600 hover:text-sky-600 ">Découvrez nos membres</a>
           </Link>
 
         </div>
